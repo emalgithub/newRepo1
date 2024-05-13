@@ -1,0 +1,7 @@
+public class ClassN {
+    public static void main(String [] args){
+        System.out.println("Hi");
+        //new class was added to github
+
+    }
+}
